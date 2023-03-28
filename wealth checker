@@ -1,0 +1,3 @@
+var isWealthy = 200;
+var isRich = 1000;
+console.log(isWealthy/ isRich);
